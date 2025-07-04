@@ -20,9 +20,12 @@ Systems Programming
 </div>
 
 Scientific Computing 
+<div align="center">
+    
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+</div>
 
 Tools & Libraries 
 ![ncurses](https://img.shields.io/badge/ncurses-4EAA25?style=for-the-badge&logo=gnu&logoColor=white) 
