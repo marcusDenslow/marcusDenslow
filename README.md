@@ -11,9 +11,10 @@ I'm a passionate Systems Programmer and Computational Physics Enthusiast studyin
     ⚡ Fun fact: I built my own shell from scratch with autocompletion!
 
 🛠️ Tech Stack
-Systems Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+Systems Programming   
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+
 Scientific Computing
 
 Tools & Libraries
