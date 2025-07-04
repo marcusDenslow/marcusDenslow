@@ -142,7 +142,7 @@ Language Explorer - Always excited to learn new programming languages, especiall
 
 🎯 Current Focus
 
-    📚 Learning Zig to explore modern systems programming approaches and learning game development through the zig raylib project
+    📚 Learning Zig to explore modern systems programming approaches and learning game dev through the zig raylib project
     🤝 Contributing to open source C projects and terminal applications
     ⚗️ Experimenting with numerical methods for more complex physics simulations
     🇳🇴 Exploring the Norwegian tech ecosystem and connecting with local developers
