@@ -94,7 +94,9 @@ IT Program - Skien Videregående Skole, Skien, Telemark, Norway (Current)
     Secondary Focus: Practical Engineering & IoT Systems
     
     Full-stack engineering projects combining software, electronics, and physical design
-    Major Project: Environmental monitoring station deployed at a local bog collecting important data about local hydrological conditions -- results handed to norwegian      government to argue against removal of the bog area to accomodate for new buildings.
+    Major Project: Environmental monitoring station deployed at a local bog collecting important data about local 
+    hydrological conditions -- results handed to norwegian 
+    government to argue against removal of the bog area to accomodate for new buildings.
     
     Designed and built weather-resistant enclosure and mounting system
     Programmed Arduino sensors in C for data collection (water height, temperature, humidity)
@@ -104,7 +106,8 @@ IT Program - Skien Videregående Skole, Skien, Telemark, Norway (Current)
 
 
 
-    Skills Developed: Python scientific computing, Arduino/C embedded programming, sensor integration, database connectivity, physical prototyping, and interdisciplinary     problem-solving
+    Skills Developed: Python scientific computing, Arduino/C embedded programming, sensor integration, 
+    database connectivity, physical prototyping, and interdisciplinary     problem-solving
 
 
 
