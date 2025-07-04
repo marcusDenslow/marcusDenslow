@@ -29,10 +29,13 @@ Tools & Libraries
 
 
 📊 GitHub Stats 
-
+<div align="center">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusDenslow&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcusDenslow&theme=radical) 
+</div>
+
+
 
 
 
