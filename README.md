@@ -42,7 +42,7 @@ A feature-rich shell implementation written from scratch in C
     Impact: Demonstrates deep understanding of system calls, process management, and user interaction design
     Learning: Advanced C programming, UNIX system programming, terminal I/O
 
-⚡ Lazy Git Clone
+⚡ Lazygit Clone
 
 A primitive but functional version of lazygit built entirely in C using ncurses
 
@@ -79,7 +79,8 @@ Physics Meets Code - My passion for physics drives me to create simulations and 
 Tool Builder - Rather than just using existing tools, I love building my own versions to understand the underlying principles (hence the custom shell and git client).
 
 Language Explorer - Always excited to learn new programming languages, especially systems languages like Zig that push the boundaries of performance and safety.
-🌐 Connect with Me at marcus.allen.denslow@gmail.com
+🌐 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus.allen.denslow@gmail.com)
 
 
 🎯 Current Focus
