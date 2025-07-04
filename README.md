@@ -13,8 +13,12 @@ I'm a passionate Systems Programmer and Computational Physics Enthusiast studyin
 🛠️ Tech Stack
 
 Systems Programming 
+<div align="center">
+    
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+</div>
 
 Scientific Computing 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
