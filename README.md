@@ -115,7 +115,6 @@ Language Explorer - Always excited to learn new programming languages, especiall
 
 🎯 Current Focus
 
-    🔨 Enhancing my shell with more advanced features like tab completion for file paths
     📚 Learning Zig to explore modern systems programming approaches
     🤝 Contributing to open source C projects and terminal applications
     ⚗️ Experimenting with numerical methods for more complex physics simulations
