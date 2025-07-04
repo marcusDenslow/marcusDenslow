@@ -112,5 +112,7 @@ Language Explorer - Always excited to learn new programming languages, especiall
 <div align="center">
 "The best way to understand a system is to build it yourself."
 
+![Profile Views](https://komarev.com/ghpvc/?username=marcusDenslow&color=blueviolet&style=flat-square&label=Profile+Views)
+
 🇳🇴 Coding from Skien, Norway | Building tools that matter | Always learning something new 🚀
 </div>
