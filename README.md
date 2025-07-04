@@ -96,7 +96,9 @@ IT Program - Skien Videregående Skole, Skien, Telemark, Norway (Current)
     Full-stack engineering projects combining software, electronics, and physical design
     Major Project: Environmental monitoring station deployed at a local bog collecting important data about 
     hydrological conditions -- results handed to norwegian government to argue against removal of the bog to
-    accomodate for new buildings.                         //Update: Sucessful! based 
+    accomodate for new buildings.                         
+    
+    //Update: Sucessful! based 
     on our results the bog was deemed likely to complete an autonomous restoration and therefore the building plans 
     were cancelled.
 
