@@ -98,8 +98,8 @@ IT Program - Skien Videregående Skole, Skien, Telemark, Norway (Current)
     hydrological conditions -- results handed to norwegian government to argue against removal of the bog to
     accomodate for new buildings.                         
     
-    //Update: Sucessful! based 
-    on our results the bog was deemed likely to complete an autonomous restoration and therefore the building plans 
+    //Update: Sucessful! 
+    based on our results the bog was deemed likely to complete an autonomous restoration and therefore the building plans 
     were cancelled.
 
     
