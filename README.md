@@ -101,11 +101,17 @@ Language Explorer - Always excited to learn new programming languages, especiall
 
 
 🌐 Connect with Me
+<div align="center">
+    
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus.allen.denslow@gmail.com)
+</div>
 
 
 📈 Contribution Activity
+<div align="center">
+    
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcusDenslow&theme=tokyo-night)
+</div>
 
 🎯 Current Focus
 
