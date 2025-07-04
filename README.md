@@ -28,8 +28,8 @@ Tools & Libraries
 
 📊 GitHub Stats 
 
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusDenslow&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusDenslow&layout=compact&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusDenslow&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcusDenslow&theme=radical) 
 
 
