@@ -19,7 +19,7 @@ Tools & Libraries
 
 📊 GitHub Stats
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=marcusDenslow&show_icons=true&theme=radical
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusDenslow&show_icons=true&theme=radical)
 
 </div>
 🏆 Featured Projects
