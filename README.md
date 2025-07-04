@@ -19,8 +19,7 @@ Tools & Libraries
 
 📊 GitHub Stats
 <div align="center">
-![Marcus's GitHub stats] (https://github-readme-stats.vercel.app/api?username=marcusDenslow&show_icons=true&theme=radical)
-
+![Test Badge](https://img.shields.io/badge/Test-Working-green?style=for-the-badge)
 </div>
 🏆 Featured Projects
 🐚 Custom Shell
