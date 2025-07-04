@@ -25,11 +25,15 @@ Tools & Libraries
 ![ncurses](https://img.shields.io/badge/ncurses-4EAA25?style=for-the-badge&logo=gnu&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
-📊 GitHub Stats
+📊 GitHub Stats 
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusDenslow&show_icons=true&theme=radical) 
 
-![Test Badge](https://img.shields.io/badge/Test-Working-green?style=for-the-badge)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusDenslow&layout=compact&theme=radical) 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcusDenslow&theme=radical) 
+
+
 🏆 Featured Projects
 🐚 Custom Shell
 
