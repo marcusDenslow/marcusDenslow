@@ -26,6 +26,8 @@ Tools & Libraries
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
+
+
 📊 GitHub Stats 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusDenslow&layout=compact&theme=radical)
@@ -33,7 +35,9 @@ Tools & Libraries
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcusDenslow&theme=radical) 
 
 
+
 🏆 Featured Projects
+
 🐚 Custom Shell
 
 A feature-rich shell implementation written from scratch in C
@@ -70,6 +74,8 @@ IT Program - Skien Videregående Skole, Skien, Telemark, Norway (Current)
     Specializing in systems programming and computational problem solving
     Focus on low-level programming languages and software engineering principles
 
+
+
 💻 What Makes Me Unique
 
 Systems Programming Enthusiast - I enjoy working close to the metal, understanding how computers actually work, and building tools that interact directly with the operating system.
@@ -79,9 +85,14 @@ Physics Meets Code - My passion for physics drives me to create simulations and 
 Tool Builder - Rather than just using existing tools, I love building my own versions to understand the underlying principles (hence the custom shell and git client).
 
 Language Explorer - Always excited to learn new programming languages, especially systems languages like Zig that push the boundaries of performance and safety.
+
+
 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus.allen.denslow@gmail.com)
 
+
+📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcusDenslow&theme=tokyo-night)
 
 🎯 Current Focus
 
