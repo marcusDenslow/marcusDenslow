@@ -99,8 +99,8 @@ IT Program - Skien Videregående Skole, Skien, Telemark, Norway (Current)
     accomodate for new buildings.                         
     
     //Update: Sucessful! 
-    based on our results the bog was deemed likely to complete an autonomous restoration and therefore the building plans 
-    were cancelled.
+    based on our results the bog was deemed likely to complete an autonomous restoration and therefore the 
+    building plans were cancelled.
 
     
     Designed and built weather-resistant enclosure and mounting system
