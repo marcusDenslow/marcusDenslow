@@ -18,9 +18,8 @@ Scientific Computing
 Tools & Libraries
 
 📊 GitHub Stats
-<div align="center">
+
 ![Test Badge](https://img.shields.io/badge/Test-Working-green?style=for-the-badge)
-</div>
 🏆 Featured Projects
 🐚 Custom Shell
 
