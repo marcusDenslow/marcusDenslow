@@ -1,7 +1,7 @@
 Hi there, I'm Marcus Denslow 👋
 🚀 About Me
 
-I'm a passionate Systems Programmer and Computational Physics Enthusiast studying IT at Skien Videregående Skole in Norway. I love building low-level tools, exploring the intersection of physics and code, and creating efficient terminal applications that solve real problems.
+I'm a passionate Systems Programmer and Computational Physics Enthusiast studying the IT course at Skien Videregående Skole in Norway. I love building low-level tools, exploring the intersection of physics and code, and creating efficient terminal applications that solve real problems.
 
     🔭 I'm currently working on advanced shell features and physics simulations
     🌱 I'm currently learning Zig and diving deeper into systems programming
