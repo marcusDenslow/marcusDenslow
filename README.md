@@ -64,7 +64,7 @@ A feature-rich shell implementation written from scratch in C
 A primitive but functional version of lazygit built entirely in C using ncurses
 
     Tech Stack: C, ncurses, Git integration
-    Key Features: Terminal UI for Git operations and Commit management
+    Key Features: Terminal UI for Git operations and Commit, branch, stash, file management
     Impact: Complex terminal UI programming showcasing ncurses mastery
     Learning: Advanced terminal programming, Git internals, UI/UX design for CLI tools
     --Part of the custom shell project
@@ -84,8 +84,27 @@ Numerical solution for 3-body and n-body gravitational problems
 
 IT Program - Skien Videregående Skole, Skien, Telemark, Norway (Current)
 
-    Specializing in systems programming and computational problem solving
-    Focus on low-level programming languages and software engineering principles
+    Primary Focus: Computational Physics & Problem Solving
+
+    Project-based Python programming for physics simulations and numerical methods
+    Implemented solutions for complex problems like n-body gravitational systems
+    Applied Euler's method for modeling real-world scenarios (water level calculations in leaking tank systems)
+    Emphasis on translating mathematical concepts into efficient code
+    
+    Secondary Focus: Practical Engineering & IoT Systems
+    
+    Full-stack engineering projects combining software, electronics, and physical design
+    Major Project: Environmental monitoring station deployed at a local bog
+    
+    Designed and built weather-resistant enclosure and mounting system
+    Programmed Arduino sensors in C for data collection (water height, temperature, humidity)
+    Engineered wireless data transmission system to remote database
+    Implemented redundant manual data backup systems for reliability
+    Integrated hardware design, embedded programming, and systems engineering
+
+
+
+    Skills Developed: Python scientific computing, Arduino/C embedded programming, sensor integration, database connectivity, physical prototyping, and interdisciplinary     problem-solving
 
 
 
