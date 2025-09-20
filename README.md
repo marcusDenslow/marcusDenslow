@@ -3,12 +3,7 @@ Hi there, I'm Marcus Denslow 👋
 
 I'm a passionate Systems Programmer and Computational Physics Enthusiast studying the IT course at Skien Videregående Skole in Norway. I love building low-level tools, exploring the intersection of physics and code, and creating efficient terminal applications that solve real problems.
 
-    🔭 I'm currently working on advanced shell features and physics simulations
-    🌱 I'm currently learning Zig and diving deeper into game development through the zig-raylib project
-    👯 I'm looking to collaborate on open source CLI tools and scientific computing projects
-    💬 Ask me about C programming, terminal applications, physics simulations, computers, nerdy videogames, mountain bikes!
-    📫 How to reach me: marcus.allen.denslow@gmail.com
-    ⚡ Fun fact: I also love downhill mountainbikes and i love being outside in nature too!
+  
 
 🛠️ Tech Stack
 
